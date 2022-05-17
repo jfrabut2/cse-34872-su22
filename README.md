@@ -2,10 +2,7 @@
 
 ![Dredd](https://github.com/nd-cse-34872-su21/cse-34872-su21-assignments/workflows/Dredd/badge.svg)
 
-This is the [CSE-34872-SU21] reading and challenge assignments repository for:
-
-- **Name**:     Domer McDomerson
-- **NetID**:    dmcdomer
+This is a copy of the [CSE-34872-SU21] reading and challenge assignments repository for personal use during summer 2022:
 
 [CSE-34872-SU21]:   https://www3.nd.edu/~pbui/teaching/cse.34872.su21/
 
